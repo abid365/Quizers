@@ -7,6 +7,7 @@
 
 body{
     margin: auto 5rem;
+    font-family: "Inter", sans-serif;
 }
 
 header{
@@ -36,7 +37,17 @@ header>ul>li{
     padding: 5px 10px;
     border: 1px solid #333;
     border-radius: 3px;
-    background-color: #f0fff0;
+    background-color: #ebf6f7;
     font-weight: 600;
     color: #333;
+}
+
+.enroll-desc{
+    width: 40%;
+    font-size: 14px;
+    color: #333;
+}
+
+.quote-txt{
+    margin-top: 5rem;
 }
