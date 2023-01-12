@@ -42,12 +42,27 @@ header>ul>li{
     color: #333;
 }
 
+.one{
+    display: flex;
+    align-items: center;
+}
+
 .enroll-desc{
-    width: 40%;
-    font-size: 14px;
+    width: 60%;
+    font-size: 12px;
     color: #333;
 }
 
-.quote-txt{
-    margin-top: 5rem;
+/* .quote-txt{
+    margin-top: 10rem;
+} */
+
+.student{
+    height: 400px;
+    
 }
+
+.hero-img{
+    width:fit-content;
+}
+
